@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-18T17:55:15+00:00\n"
+"Last-Translator: BrenardCrespo <www.rednixcom.com>\n"
+"Last-Translator: notaspampeanas <http://notaspampeanas.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: Spain\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "Add Update tags"
+msgstr "Agregue etiquetas de actualización"
+
+msgid "If you have been updated this post with new information, use this box to inform about it."
+msgstr "Si ha actualizado el artículo con información nueva, use esta caja para informarlo."
+
+msgid "Please note that the different update messages have to be separed with 3 dashes:"
+msgstr "Por favor, tome en cuenta que los diferentes mensajes de actualización tienen que ser separados con 3 guiones:"
+
+msgid "If you want to force the date displayed, the first line must be %s"
+msgstr "Si desea forzar el despliegue de la fecha, la primera línea debe ser %s"
+
+msgid "Example:"
+msgstr "Ejemplo:"
+
+msgid "The first message"
+msgstr "El primer mensaje"
+
+msgid "The second message"
+msgstr "El segundo mensaje"
+
+msgid "Where do you want to place the update message?"
+msgstr "¿Dónde desea ubicar el mensaje de actualización?"
+
+msgid "Placement:"
+msgstr "Ubicación:"
+
+msgid "You can also add a shorcode %s to add an updated box wherever you want in your posts"
+msgstr "También puede agregar el código %s a un recuadro de actualización en cualquier lugar que desee en sus artículos"
+
+msgid "Show the update message on home page:"
+msgstr "Muestre el mensaje de actualización en la página de inicio de su sitio:"
+
+msgid "Indicate if you want the update message to be shown in the summary of the posts in your home page."
+msgstr "Indicar si desea que el mensaje de actualización sea mostrado en el resumen de los artículos en su página principal."
+
+msgid "Placement for the excerpt:"
+msgstr "Ubicación del extracto:"
+
+msgid "How do you want to render the message?"
+msgstr "¿Cómo desea presentar el mensaje?"
+
+msgid "HTML:"
+msgstr "HTML:"
+
+msgid "The default HTML is:"
+msgstr "El HTML predeterminado es:"
+
+msgid "The following expressions will be replaced:"
+msgstr "Los siguientes términos serán sustituidos:"
+
+msgid "Published date"
+msgstr "Fecha de publicación"
+
+msgid "Updated date"
+msgstr "Fecha de actualización"
+
+msgid "Updated text"
+msgstr "Texto de actualización"
+
+msgid "CSS:"
+msgstr "CSS:"
+
+msgid "The default CSS is:"
+msgstr "El CSS por defecto es:"
+
+msgid "Parameters"
+msgstr "Parámetros"
+
+msgid "This plugin may display update/warning boxes in your posts/pages (for instance, to indicate that the content is not up-to-date, that the content has been changed, etc.)."
+msgstr "Este plugin puede desplegar recuadros de advertencia/actualización en sus artículos o páginas (por ejemplo, para indicar que el contenido está desactualizado, que el contenido ha sido modificado, etc.)"
+
+msgid "Purpose of that plugin"
+msgstr "Propósito de este plugin"
+
+msgid "To display the update box, you may add an update box by adding to your post %s"
+msgstr "Para desplegar el recuadro de actualización, puede añadir un recuadro de actualización agregando en artículo %s"
+
+msgid "- use %s to indicate the date of the update"
+msgstr "- utilice %s para indicar la fecha de la actualización"
+
+msgid "- use %s to indicate the date when the box is to be removed as the update message had expired"
+msgstr "- utilice %s para indicar la fecha en que el recuadro será removido luego que el mensaje de actualización haya caducado"
+
+msgid "A button is available in the post/page editor."
+msgstr "Hay un botón disponible en el editor de artículos/páginas."
+
+msgid "In the post/page editor, there is also a update widget on the left."
+msgstr "En el editor de artículos/páginas, también hay un widget de actualización a la izquierda"
+
+msgid "How to display the update box?"
+msgstr "¿Cómo desplegar el recuadro de actualización?"
+
+msgid "How To"
+msgstr "Cómo"
+
+msgid "Manage translations"
+msgstr "Gestionar traducciones"
+
+msgid "Give feedback"
+msgstr "Envíenos sus sugerencias"
+
+msgid "Other plugins"
+msgstr "Otros plugins"
+
